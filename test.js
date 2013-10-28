@@ -5,3 +5,4 @@ function square(a) {
 }
 
 assert.equal(square(4), 16);
+assert.equal(square(8), 64);
